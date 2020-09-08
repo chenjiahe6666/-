@@ -1,2 +1,1 @@
-# -
-everything will be ok!
+print("everything will be ok!")
