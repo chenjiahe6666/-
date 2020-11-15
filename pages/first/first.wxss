@@ -1,0 +1,11 @@
+.firstout{background-color:rgb(241, 255, 192) ;text-align: center;}
+.search {
+  margin: 0 auto;
+  width: 95%;
+  height: 60rpx;
+  background-color: white;
+  margin-top: 4%;
+  border: 1rpx solid black;
+  border-radius: 10rpx;
+}
+.out{height:1180rpx;}

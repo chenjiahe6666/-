@@ -1,0 +1,6 @@
+<view> 
+<image src="/images/1234.GIF.jpg" class="out">
+  <button>跳过</button>
+</image>
+
+</view>
